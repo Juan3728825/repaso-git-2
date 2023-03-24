@@ -8,6 +8,7 @@ export const findAllUser = async (req, res) => {
                 console.error("ha ocurrido un error")
 
         }
+        //
 
 }
 export const findUser = async(req, res) => {
